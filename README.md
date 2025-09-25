@@ -1,6 +1,6 @@
 # Hi, I'm Mahir 👋  
 
-🚀 **Software Engineer | System Designer | Builder of End-to-End Solutions**
+🚀 **Software Engineer | System Designer**
 
 I'm an engineer who is passionate about designing and building full systems — from software to hardware. I thrive at the intersection of **software engineering, embedded systems, and scalable architectures**.
 
