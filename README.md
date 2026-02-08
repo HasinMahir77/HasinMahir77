@@ -16,7 +16,7 @@ I'm an engineer who is passionate about designing and building full systems — 
 ### 📚 Tech Stack
 - **Languages:** Python, Java, JavaScript, TypeScript, C++, Dart
 - **Frameworks:** React, Node.js, Express, Django, Flask, FastAPI, Electron, Flutter
-- **Databases:** MySQL, MongoDB, Firebase  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
 - **Hardware:** Arduino, ESP32, Raspberry Pi  
 - **Other:** Git, Docker, REST APIs, System Design  
 
@@ -26,7 +26,3 @@ I'm an engineer who is passionate about designing and building full systems — 
 - 💼 LinkedIn: [Hasin Mahir](https://www.linkedin.com/in/hasin-mahir-a33973288/)
 - ✉️ Email: hasinmahir@gmail.com
 - 📱 Phone: +8801741238814
-
----
-
-✨ *Always curious, always building.*  
