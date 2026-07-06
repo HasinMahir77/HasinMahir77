@@ -23,6 +23,5 @@ I'm an engineer who is passionate about designing and building full systems — 
 ---
 
 ### 📫 Get in Touch
-- 💼 LinkedIn: [Hasin Mahir](https://www.linkedin.com/in/hasin-mahir-a33973288/)
-- ✉️ Email: hasinmahir@gmail.com
-- 📱 Phone: +8801741238814
+- 💼 LinkedIn: [Hasin Mahir](https://www.linkedin.com/in/hasin-mahir/)
+- ✉️ Email: hasinmahir077@gmail.com
